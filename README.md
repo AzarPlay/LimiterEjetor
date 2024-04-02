@@ -8,7 +8,7 @@ Config:
 ```
 limit_of_dispensers: 20
 seconds_for_break: 20
-break_on_time: true # aonde se ta usando isso?
+break_on_time: true 
 delay_for_player_remove: 60
 messages:
   messages_on_limit: "&cEssa chunck ja possui o valor limite de %max% de ejetores"
