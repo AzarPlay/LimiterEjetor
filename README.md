@@ -13,3 +13,6 @@ delay_for_player_remove: 60
 messages:
   messages_on_limit: "&cEssa chunck ja possui o valor limite de %max% de ejetores"
   messages_for_break_block: "&cO seu ejetor chegou no limite maximo de tempo para a quebra"```
+
+By: Azarplay | Polar
+   
